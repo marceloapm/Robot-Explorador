@@ -6,7 +6,7 @@ cd /home/pi/
 
 y ejecutar el script en python desde la rasberry con:
 
-sudo nano servidor.py
+sudo python servidor.py
 
 Luego debe ejecutar el codigo en Processigng, pero antes de darle play asegurece de que tanto la pc desde donde
 desea conectarse a la raspberry, como la raspberry estan conectadas a la misma red local LAN
