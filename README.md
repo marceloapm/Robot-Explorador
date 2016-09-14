@@ -1,6 +1,6 @@
 # Robot-Explorador
 
-Para Poder hacer uso de el codigo en Python debe subirlo a al directorio principal de la raspberry pi /home/pi
+Para Poder hacer uso de el codigo en Python "servidor.py" debe subirlo a al directorio principal de la raspberry pi /home/pi
 
 cd /home/pi/
 
@@ -8,7 +8,7 @@ y ejecutar el script en python desde la rasberry con:
 
 sudo python servidor.py
 
-Luego debe ejecutar el codigo en Processigng, pero antes de darle play asegurece de que tanto la pc desde donde
+Luego debe ejecutar el codigo en Processigng "Control_Remoto.pde", pero antes de darle play asegurece de que tanto la pc desde donde
 desea conectarse a la raspberry, como la raspberry estan conectadas a la misma red local LAN
 
 Y en la linea del codigo en processing:
