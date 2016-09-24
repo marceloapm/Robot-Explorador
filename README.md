@@ -14,11 +14,16 @@ Diseño y programación del sistema que permita llevar a cabo las funciones plan
 ###Específicos
 
 1.1Desarrollo del Prototipo de Hardware, formado por:
+
 1.2Una Raspberry Pi, a la que en un futuro se le incorporaran sensores para que pueda hacer mediciones del entoro donde se encuentra,
+
 1.3	Un chasis formado por motores de corriente continua, para hacer movimientos hacia adelante y hacia atrás, y un sistema de dirección que pueda hacer que el robot vaya en cualquier dirección,
+
 1.4	Un sistema de alimentación portátil, de forma que el robot pueda ser autónomo durante un cierto tiempo, además de algunos elementos que sean necesarios para controlar el dispositivo.   
 
 2.1	Desarrollo del Software que permita:
+
 2.2	Controlar el robot explorador, de forma remota usando WiFi,  y  
+
 2.3	Capacidad de ejecutar algunas funciones especificas durante la exploración. 
 
